@@ -1,0 +1,50 @@
+
+.no-found{
+    background-image: url("../img/noFound.jpg") !important;
+    background-size: cover;
+    height: 750px;
+}
+.fondo{
+    background-image: url("../img/coverFinal.PNG") !important;
+    background-size: cover;
+    height: 755px;
+ 
+}
+
+.flogin{
+    background-image: url("../img/fondo2.jpg") !important;
+    background-size: cover;
+    height: 750px;
+}
+
+.fondosing{
+    background-image: url("../img/fondo1.jpg") !important;
+    background-size: cover;
+    height: 750px;
+
+}
+.logo{
+    background-image: url("../img/logo.PNG") !important;
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+   height: 750px;
+
+}
+
+.logo1{
+    background-image: url("../img/bancotiempo1.jpg") !important;
+    background-size: 800px 500px;
+    background-repeat: no-repeat;
+   height: 750px;
+   margin-left: 300px;
+   margin-top: 60px;
+
+}
+
+.mujeresLideres{
+    background-image: url("../img/mujereslideres.png") !important;
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+   height: 750px;
+
+}
